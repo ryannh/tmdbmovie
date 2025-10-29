@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "YOUR_TEAM_ID.com.tmdbmovieapp",
+        "appID": "A1B2C3D4E5.com.tmdbmovieapp.ios",
         "paths": [
           "/movie/*",
           "/"
