@@ -3,8 +3,10 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.tmdbmovieapp",
-      "sha256_cert_fingerprints": ["PASTE_YOUR_APP_RELEASE_SHA256_HERE"]
+      "package_name": "com.tmdbmovieapp.android",
+      "sha256_cert_fingerprints": [
+        "69:F3:16:D5:4D:72:1C:CC:0E:A4:27:FC:B9:23:5A:F9:72:CF:A8:5B:43:A0:A8:A2:B0:15:E1:37:74:F4:C9:F3"
+      ]
     }
   }
 ]
