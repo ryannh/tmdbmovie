@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.tmdbmovieapp.android",
+      "package_name": "id.co.fdcdentalclinic.development",
       "sha256_cert_fingerprints": [
-        "69:F3:16:D5:4D:72:1C:CC:0E:A4:27:FC:B9:23:5A:F9:72:CF:A8:5B:43:A0:A8:A2:B0:15:E1:37:74:F4:C9:F3"
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
