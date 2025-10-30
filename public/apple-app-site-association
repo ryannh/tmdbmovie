@@ -3,9 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "A1B2C3D4E5.com.tmdbmovieapp.ios",
+        "appID": "XB65P45QZ4.co.id.fdcdentalclinic.dev",
         "paths": [
-          "/movie/*",
           "/"
         ]
       }
